@@ -1,0 +1,17 @@
+{
+  "name": "socialthoughts-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.7.1",
+    "serve-favicon": "^2.5.0"
+  }
+}
